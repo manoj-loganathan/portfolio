@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Creative Developer | Portfolio",
-  description: "High-end Scrollytelling Personal Portfolio Website",
+  title: "Manoj Loganathan | Portfolio",
+  description: "Results-driven Full Stack Developer with 3+ years of expertise in MERN stack and Next.js, specializing in building scalable web applications and real-time dashboards.",
 };
 
 import { Analytics } from "@vercel/analytics/react";
