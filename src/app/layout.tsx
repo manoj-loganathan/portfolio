@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Manoj Loganathan | Portfolio",
-  description: "Results-driven Full Stack Developer with 3+ years of expertise in MERN stack and Next.js, specializing in building scalable web applications and real-time dashboards.",
+  title: "Manoj Loganathan | Full Stack Developer & Mobile App Engineer",
+  description: "Portfolio of Manoj Loganathan, a Full Stack Developer specializing in MERN stack, Next.js, and Native Mobile Apps. I build scalable web software, real-time dashboards, and premium cross-platform mobile applications.",
 };
 
 import { Analytics } from "@vercel/analytics/react";
