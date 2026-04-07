@@ -15,13 +15,13 @@ const projects = [
   },
   { 
     id: 3, 
-    link: "https://trillo.framer.ai/",
-    img: "https://www.framer.com/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F53749%2Ftrillo-jF016CTlubyr3W9AFluDoK6A7UrPg0&w=3840&q=100",
+    link: "https://www.envitra.in/",
+    img: "https://s0.wp.com/mshots/v1/https://www.envitra.in/?w=1200",
   },
   { 
     id: 4, 
-    link: "https://loyal-handbook-876844.framer.app/",
-    img: "https://www.framer.com/creators-assets/_next/image/?url=https%3A%2F%2Fy4pdgnepgswqffpt.public.blob.vercel-storage.com%2Ftemplates%2F60460%2Ftraavellio-XvRodq0jXg5smdp6jYs044VJPsvGpi&w=3840&q=100",
+    link: "https://mia.sunteknolozy.in/",
+    img: "/sunteknolozy.png",
   },
 ];
 

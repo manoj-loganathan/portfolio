@@ -13,6 +13,8 @@ export const metadata: Metadata = {
   description: "High-end Scrollytelling Personal Portfolio Website",
 };
 
+import { Analytics } from "@vercel/analytics/react";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -25,6 +27,7 @@ export default function RootLayout({
     >
       <body suppressHydrationWarning className="min-h-full flex flex-col bg-black text-white selection:bg-zinc-800">
         {children}
+        <Analytics />
       </body>
     </html>
   );
