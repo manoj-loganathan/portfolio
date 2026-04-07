@@ -49,8 +49,8 @@ export default function Contact() {
 
         {/* 4. Social Links without BG */}
         <div className="flex items-center justify-center space-x-10 md:space-x-16 text-zinc-500">
-          <a href="#" className="hover:text-white transition-colors duration-300 tracking-widest text-xs md:text-sm uppercase">LinkedIn</a>
-          <a href="#" className="hover:text-white transition-colors duration-300 tracking-widest text-xs md:text-sm uppercase">GitHub</a>
+          <a href="https://www.linkedin.com/in/manojloganathan-dev/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300 tracking-widest text-xs md:text-sm uppercase">LinkedIn</a>
+          <a href="https://github.com/manoj-loganathan" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors duration-300 tracking-widest text-xs md:text-sm uppercase">GitHub</a>
           <a href="tel:+919384040438" className="hover:text-white transition-colors duration-300 tracking-widest text-xs md:text-sm uppercase">Call Me</a>
         </div>
       </div>
